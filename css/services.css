@@ -1,0 +1,116 @@
+.discount {
+    background-color: #04989E;
+    color: white;
+}
+
+
+
+
+/* nav list item start  */
+ul {
+    list-style: none;
+
+}
+
+ul li a {
+    color: white;
+    font-size: 1.5rem;
+    margin-left: 1rem;
+}
+
+/* nav list item end  */
+
+
+
+
+
+
+
+/* book tutor buton start  */
+.btn-color {
+    background-color: #00C9DA;
+    color: white;
+    border-radius: 20px;
+}
+
+.tutor {
+    width: 145px;
+    height: 40px;
+    background-color: #00C9DA;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    font-size: 20px;
+}
+
+/* book tutor buton end  */
+
+/* how help start  */
+.help-box{
+    margin-top: 2rem;
+}
+.help-vactor{
+  display: flex;
+  justify-content: center;
+}
+.help{
+  font-size: 2rem;
+  font-weight: bolder;
+}
+.detail-column{
+ display: flex;
+ justify-content: space-between ;
+}
+.first-img-vactor{
+  position: absolute;
+  margin-top: 11.5rem;
+  margin-left: -10px;
+
+}
+.first-img{
+  /* position: relative; */
+  width: 100%;
+  height: 270px;
+  object-fit: cover;
+  border-radius: 10px;
+
+}
+.explore-services{
+    font-size: 1rem;
+    margin: 3rem 0 0 0;
+ }
+ .btn-color{
+    background-color: #00C9DA;
+    color: white;
+    border-radius: 20px;
+  }
+/* how help end  */
+
+
+
+/* services box start  */
+
+.box-about{
+    border: 10px solid  #04989E;
+    border-style:ridge;
+    margin-top: 150px;
+    background-color: #d3f1f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+/* services box end  */
+
+
+
+/* footer css start  */
+.footer-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* footer css end  */
