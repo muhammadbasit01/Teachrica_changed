@@ -93,6 +93,13 @@ full-box{
     justify-content: center;
     flex-direction: column;
  }
+ @media only screen and (max-width: 990px) {
+  .two-img {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ }
+}
 .scroll{
     display: flex;
     justify-content: center;
