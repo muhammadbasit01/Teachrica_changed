@@ -122,6 +122,11 @@ form {
 .form-group input {
     flex: 2;
 }
+.submit-button{
+    border: 2px solid black;
+    width: 100px;
+    background-color: aliceblue;
+}
 
 /* form css end  */
 
