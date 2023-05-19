@@ -1,3 +1,6 @@
+a{
+    text-decoration: none;
+}
 .discount {
     background-color: #04989E;
     color: white;
@@ -107,9 +110,7 @@ form {
 
 .form-group {
     display: flex;
-    /* align-items: center; */
-    margin-bottom: 10px;
-    margin-top: 5px;
+    margin: 5px 5px 10px 5px;
 }
 
 .form-group label {
